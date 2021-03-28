@@ -17,4 +17,4 @@ You can run the `ls-tree` command which will result in:
 
 ```
 
-PS ~ Still a work in progress.
+PS ~ PRs are welcome
